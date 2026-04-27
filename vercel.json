@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd point-farma-landing-page && npm run build",
+  "outputDirectory": "point-farma-landing-page/.next",
+  "framework": "nextjs"
+}
